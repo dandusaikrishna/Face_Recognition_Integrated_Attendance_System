@@ -8,11 +8,12 @@
 
 # SCREENSHOTS
 MAIN SCREEN:
-[Screenshot 1](https://github.com/dandusaikrishna/Face-Recognition-Integrated-Attendance-System-with-GUI-/assets/138280007/ee60c523-6ccf-4c61-a8c1-cc65a0f333fb)
+![Screenshot 2024-02-26 105150](https://github.com/dandusaikrishna/Face-Recognition-Integrated-Attendance-System-with-GUI-/assets/138280007/a4022c03-5e8f-4fc6-b5bf-02ae57bbe326)
+
 
 TAKING ATTENDANCE:
-[Screenshot 2](https://github.com/dandusaikrishna/Face-Recognition-Integrated-Attendance-System-with-GUI-/assets/138280007/37a477b2-8f85-4833-9113-f608225bb894)
-2e.png)
+
+![Screenshot 2024-02-26 105329](https://github.com/dandusaikrishna/Face-Recognition-Integrated-Attendance-System-with-GUI-/assets/138280007/4b837825-eecb-4dcb-b16f-cb445532f2c6)
 
 SHOWING ATTENDANCE TAKEN:
 ![Screenshot 2024-02-26 105440](https://github.com/dandusaikrishna/Face-Recognition-Integrated-Attendance-System-with-GUI-/assets/138280007/bad62390-2750-4ee7-86c9-0bbd4050ae25)

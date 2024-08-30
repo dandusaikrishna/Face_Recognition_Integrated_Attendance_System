@@ -8,15 +8,19 @@
 
 # SCREENSHOTS
 MAIN SCREEN:
-![Screenshot 2024-02-26 105150](https://github.com/dandusaikrishna/Face-Recognition-Integrated-Attendance-System-with-GUI-/assets/138280007/a4022c03-5e8f-4fc6-b5bf-02ae57bbe326)
 
+![Screenshot 2024-08-30 201010](https://github.com/user-attachments/assets/f118a2c4-6bef-4bc2-bc52-3c16e8020b23)
 
 TAKING ATTENDANCE:
 
 ![Screenshot 2024-02-26 105329](https://github.com/dandusaikrishna/Face-Recognition-Integrated-Attendance-System-with-GUI-/assets/138280007/4b837825-eecb-4dcb-b16f-cb445532f2c6)
 
 SHOWING ATTENDANCE TAKEN:
-![Screenshot 2024-02-26 105440](https://github.com/dandusaikrishna/Face-Recognition-Integrated-Attendance-System-with-GUI-/assets/138280007/bad62390-2750-4ee7-86c9-0bbd4050ae25)
+![Screenshot 2024-08-30 202212](https://github.com/user-attachments/assets/0efa64a2-b0bf-4d0e-b298-4a9f30634be4)
 
-CHANGE PASSWORD OPTION:
-![Screenshot 2024-02-26 105345](https://github.com/dandusaikrishna/Face-Recognition-Integrated-Attendance-System-with-GUI-/assets/138280007/aa46467b-3f74-4428-a60a-7cf9b4b1d70b)
+
+Attendance Report: Summary and Notifications:
+
+
+![Screenshot 2024-08-30 202304](https://github.com/user-attachments/assets/09ffd7d8-c63d-455d-a83b-05cf8e5c5f60)
+![Screenshot 2024-08-30 202316](https://github.com/user-attachments/assets/81aaae5b-3e95-4246-a33c-09873b10c77c)

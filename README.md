@@ -23,4 +23,5 @@ Attendance Report: Summary and Notifications:
 
 
 ![Screenshot 2024-08-30 202304](https://github.com/user-attachments/assets/09ffd7d8-c63d-455d-a83b-05cf8e5c5f60)
-![Screenshot 2024-08-30 202316](https://github.com/user-attachments/assets/81aaae5b-3e95-4246-a33c-09873b10c77c)
+![Screenshot 2024-08-30 202316](https://github.com/user-attachments/assets/81aaae5b-3e95-4246-a33c-09873b10c77c)![Screenshot 2024-09-04 140557](https://github.com/user-attachments/assets/ebf63a07-9e57-4f1d-afd6-7cc35be1c405)
+

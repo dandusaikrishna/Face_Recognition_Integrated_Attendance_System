@@ -1,10 +1,13 @@
-# Face_recognition_based_attendance_system
+My project addresses a challenge faced by college faculty: frequently taking attendance every hour to maintain
+security protocols, which can be stressful.
+● The system is trained once during student registration and uses Python's Tkinter for the interface, with NumPy
+and Pandas for attendance data manipulation.
+● In the first class of the morning, it records attendance for all students present in the classroom by capturing
+images from CCTV and marks it in the database.An hour later, it captures student faces again to identify any
+mismatches and notifies the class teacher of these students along with their roll numbers via email.
+● Provided real-time updates with attendance logs on the main screen, enhancing monitoring efficiency, and
+automated the process of sending daily attendance data via email to the respective faculty.
 
-**Intuitive GUI Design**: Developed an easy-to-navigate graphical user interface using tkinter for a user-friendly experience.
-**## Accurate Face Recognition:** Implemented precise face recognition with OpenCV's cv2.face.LBPHFaceRecognizer_create() for identifying and registering individuals.
-**Secure Registration Process:** Incorporated password protection to enhance system integrity during the registration of new users.
-**Efficient CSV File Management:** Established a robust system for creating and updating CSV files to store student details and manage daily attendance records, utilizing libraries like CSV, NumPy, Pandas, and datetime.
-**Automated Daily Attendance Log:** Automated the creation of daily attendance logs with date and time stamps for organized and easily retrievable attendance data. Additionally, implemented a real-time display of attendance updates on the main screen for quick monitoring throughout the day.
 
 # SCREENSHOTS
 MAIN SCREEN:

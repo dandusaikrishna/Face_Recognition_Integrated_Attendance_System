@@ -9,6 +9,7 @@ mismatches and notifies the class teacher of these students along with their rol
 automated the process of sending daily attendance data via email to the respective faculty.
 
 
+
 # SCREENSHOTS
 MAIN SCREEN:
 

@@ -1,3 +1,6 @@
+# Face Recognition Integrated Attendance System
+
+
 My project addresses a challenge faced by college faculty: frequently taking attendance every hour to maintain
 security protocols, which can be stressful.
 ● The system is trained once during student registration and uses Python's Tkinter for the interface, with NumPy

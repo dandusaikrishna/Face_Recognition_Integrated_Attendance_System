@@ -10,7 +10,6 @@ from PIL import Image
 import pandas as pd
 import datetime
 import time
-
 ############################################# FUNCTIONS ################################################
 
 def assure_path_exists(path):

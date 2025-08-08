@@ -27,7 +27,7 @@ TAKING ATTENDANCE:
 SHOWING ATTENDANCE TAKEN:
 ![Screenshot 2024-08-30 202212](https://github.com/user-attachments/assets/0efa64a2-b0bf-4d0e-b298-4a9f30634be4)
 
-
+ 
 Attendance Report: Summary and Notifications:
 
 

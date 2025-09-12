@@ -1,5 +1,5 @@
 # Face Recognition Integrated Attendance System 
-
+ 
 My project addresses a challenge faced by college faculty: frequently taking attendance every hour to maintain
 security protocols, which can be stressful.
 

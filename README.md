@@ -15,6 +15,7 @@ automated the process of sending daily attendance data via email to the respecti
 
 
 
+
 # SCREENSHOTS
 MAIN SCREEN:
 

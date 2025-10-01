@@ -10,12 +10,12 @@ from PIL import Image
 import pandas as pd
 import datetime
 import time
+import os
 ############################################# FUNCTIONS ################################################
 
-def assure_path_exists(path):
-    dir = os.path.dirname(path)
-    if not os.path.exists(dir):
-        os.makedirs(dir)
+def assure_path_exists(path: str) -> None:
+    """Ensure the directory for the given path exists."""
+    os.makedirs(os.path.dirname(path), exist_ok=True)
 
 ##################################################################################
 

@@ -1,4 +1,4 @@
-# Face Recognition Integrated Attendance System 
+# Face Recognition Integrated Attendance System  
  
 My project addresses a challenge faced by college faculty: frequently taking attendance every hour to maintain
 security protocols, which can be stressful.
@@ -10,6 +10,7 @@ and Pandas for attendance data manipulation.
 images from CCTV and marks it in the database.An hour later, it captures student faces again to identify any
 mismatches and notifies the class teacher of these students along with their roll numbers via email.
  
+
 ● Provided real-time updates with attendance logs on the main screen, enhancing monitoring efficiency, and
 automated the process of sending daily attendance data via email to the respective faculty.
 

@@ -10,12 +10,12 @@ from PIL import Image
 import pandas as pd
 import datetime
 import time
+import os
 ############################################# FUNCTIONS ################################################
 
-def assure_path_exists(path):
-    dir = os.path.dirname(path)
-    if not os.path.exists(dir):
-        os.makedirs(dir)
+def assure_path_exists(path: str) -> None:
+    """Ensure the directory for the given path exists."""
+    os.makedirs(os.path.dirname(path), exist_ok=True)
 
 ##################################################################################
 
@@ -184,7 +184,7 @@ def TakeImages():
                 # display the frame
                 cv2.imshow('Taking Images', img)
             # wait for 100 miliseconds
-            if cv2.waitKey(100) & 0xFF == ord('q'):
+            if cv2.waitKey(50) & 0xFF == ord('q'):
                 break
             # break if the sample number is morethan 100
             elif sampleNum > 100:

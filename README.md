@@ -16,7 +16,6 @@ automated the process of sending daily attendance data via email to the respecti
 
 # SCREENSHOTS
 MAIN SCREEN:
-
 ![Screenshot 2024-08-30 201010](https://github.com/user-attachments/assets/f118a2c4-6bef-4bc2-bc52-3c16e8020b23)
 
 TAKING ATTENDANCE:

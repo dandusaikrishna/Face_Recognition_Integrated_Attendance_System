@@ -28,9 +28,7 @@ def tick():
 
 def contact():
     mess._show(title='Contact us', message="Please contact us on : 'saikrishnadandu9@gmail.com' ")
-
-###################################################################################
-
+    
 def check_haarcascadefile():
     exists = os.path.isfile("haarcascade_frontalface_default.xml")
     if exists:
